@@ -1,0 +1,89 @@
+commit d6f021b6f6dd2a70733368aa8c7e8c249ea22ca9
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Sat Sep 5 23:17:18 2020 +0530
+
+    Final Touches and Report.
+
+commit e391be3464ecfae6bd971a366cc347737c3075f1
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Sat Sep 5 01:26:26 2020 +0530
+
+    Q9 added on Wednesday and refined on Thursday. Images added as well. Final report to be added.
+
+commit 10a60b1e276dff9f7dcd8344fe8d131802512cb4
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Wed Sep 2 00:37:10 2020 +0530
+
+    Improved output of Q8.4
+
+commit cde7a8e15f4653730922cb2a60080b7d9e0681b9
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Tue Sep 1 23:21:38 2020 +0530
+
+    Added code for Q6, Q7 and Q8. Images added.
+
+commit 32f6770560d1424adb02c88b4211aec6df1a4484
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Thu Aug 27 00:59:52 2020 +0530
+
+    Q5 - Image saved to file as quantum_enhanced.jpg and added to repo
+
+commit 78eb820b0f4ce791ab4145158eafc2d82ee0781b
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Thu Aug 27 00:44:11 2020 +0530
+
+    Q5 done. Reconstruction for Q4.3 also tried. Report added.
+
+commit 199c084bdb3e9bb1e41b05e03e908560c0f494ea
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Mon Aug 24 01:26:19 2020 +0530
+
+    Added code for all parts of Q4
+
+commit e70c8d74c2c64474a083d99d2fa4e870e286a348
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Mon Aug 17 20:37:26 2020 +0530
+
+    Added the answers to Part 2 and Part 3 in the notebook.
+
+commit e4383813d7407521a650349537eb1151d8a102e8
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Mon Aug 17 00:14:35 2020 +0530
+
+    Mission report Mark-1 added and answer to Q1.1b added.
+
+commit d2179a7515216569296767e755321495303e007b
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Sun Aug 16 00:06:12 2020 +0530
+
+    Checkpoint added
+
+commit 18790df76173582ccfe0834c56f04488dc51f0a4
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Sun Aug 16 00:01:14 2020 +0530
+
+    Adding the code for Q1(a) and Q1(c) of Part-1 in the notebook. Also adding images for the same.
+
+commit 4a16907d4756b21153e39db71d9836b45bd17c13
+Author: 20161302animesh <animesh.das@research.iiit.ac.in>
+Date:   Sat Aug 15 14:39:04 2020 +0530
+
+    Added the foldersfor images and the Python source
+
+commit e7626d909a94cfd6dd74871213198b08a5f976d1
+Author: Digital Image Processing <69365809+digitalimageprocessingiiith@users.noreply.github.com>
+Date:   Sat Aug 15 10:24:59 2020 +0530
+
+    Setting up GitHub Classroom Feedback
+
+commit e0f41483e687f5cf68db7605ae29bba9ca88ad12
+Author: Digital Image Processing <69365809+digitalimageprocessingiiith@users.noreply.github.com>
+Date:   Sat Aug 15 10:24:58 2020 +0530
+
+    GitHub Classroom Feedback
+
+commit ae75675fcc4ab8381a8dc429aa192cb00e844c4a
+Author: Digital Image Processing <69365809+digitalimageprocessingiiith@users.noreply.github.com>
+Date:   Sat Aug 15 10:24:56 2020 +0530
+
+    Initial commit
